@@ -1,2 +1,2 @@
-# First-Projects
-Projects done while doing developer's courses
+# Python Projects
+Python projects done while doing the course on Udemy
